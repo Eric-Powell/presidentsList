@@ -1,0 +1,22 @@
+body {
+  padding: 1%;
+}
+
+#title {
+  font-size: 3em;
+}
+
+#pres {
+  margin-top: 8px;
+}
+
+#pres > li {
+  margin: 8px;
+}
+
+#error {
+  font-size: 1.2em;
+  font-style: italics;
+  margin-top: 8px;
+  color: red;
+}
